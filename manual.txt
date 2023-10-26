@@ -1,0 +1,6 @@
+#Entrar no site da https://www.pelando.com.br/
+#Fazer digitar do produto "PS5"
+#Clicar na lupa 
+#Clicar no primeiro anuncio
+#Pegar 5 primeiro da lista [Valor, Vendedor e Data] 
+#Guardar tudo no excel.
